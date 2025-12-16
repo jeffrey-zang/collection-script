@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/jeffrey-zang/collection-script/main/Collector-v0.1.0.dmg" length="883712" type="application/octet-stream" sparkle:edSignature="SBSvOC3MG5LgheWtrlfGGkCoWONbhYdp0Ds+x75GQetB4gdBT1Naw1RrjpLE55mywReIjVCdM03Or4CxjPdKBA=="/>
+            <enclosure url="https://raw.githubusercontent.com/jeffrey-zang/collector/main/Collector-v0.1.0.dmg" length="883712" type="application/octet-stream" sparkle:edSignature="SBSvOC3MG5LgheWtrlfGGkCoWONbhYdp0Ds+x75GQetB4gdBT1Naw1RrjpLE55mywReIjVCdM03Or4CxjPdKBA=="/>
         </item>
     </channel>
 </rss>
