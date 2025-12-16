@@ -3,12 +3,12 @@
     <channel>
         <title>Collector</title>
         <item>
-            <title>0.9.0</title>
-            <pubDate>Mon, 15 Dec 2025 21:18:36 -0500</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <title>0.1.0</title>
+            <pubDate>Tue, 16 Dec 2025 14:34:18 -0500</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/jeffrey-zang/collection-script/main/Collector-v0.9.0.dmg" length="884736" type="application/x-apple-diskimage" sparkle:edSignature="vdI86okKrIggvHguDIs5Fqr9ICFaapixI0ty4BMz7wCpYH2Hqu4S/Nom5obgdLzO2JOiqN6PbmgZRMG55QwtCg=="/>
+            <enclosure url="https://raw.githubusercontent.com/jeffrey-zang/collection-script/main/Collector-v0.1.0.dmg" length="883712" type="application/octet-stream" sparkle:edSignature="SBSvOC3MG5LgheWtrlfGGkCoWONbhYdp0Ds+x75GQetB4gdBT1Naw1RrjpLE55mywReIjVCdM03Or4CxjPdKBA=="/>
         </item>
     </channel>
 </rss>
