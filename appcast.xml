@@ -3,6 +3,14 @@
     <channel>
         <title>Collector</title>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Fri, 06 Feb 2026 20:19:38 -0500</pubDate>
+            <sparkle:version>3.0</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/jeffrey-zang/collector/main/Collector-v0.3.0.dmg" length="1333854" type="application/octet-stream" sparkle:edSignature="tUDL1Ot46zSjKyZFVwAuCSjb5v5XL0Tv7hx5NTBMlHyOXOLN6lXVPuRweTqKCYnUEHbymfqt1Q0GbwhJwHbWAg=="/>
+        </item>
+        <item>
             <title>0.2.14</title>
             <pubDate>Mon, 19 Jan 2026 20:34:34 -0500</pubDate>
             <sparkle:version>2.14</sparkle:version>
